@@ -30,3 +30,6 @@ A 2D shooting space game built using **Unity** where the player controls a space
 
    ```bash
    git clone https://github.com/your-username/shooting-space-game.git
+
+   
+2. **Run The .Exe File**
